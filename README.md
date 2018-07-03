@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 ## User Stories / Feature List
 
-[Use this section to list all the features you have built into this app. We are looking for depth and creativity, not a simple templated application that one might write using new project wizards and boilerplate code. Also take some time to think about how you can improve your app in the future and list those items.]
+[Use this section to list the features you have built into this app. We are looking for depth and creativity, not a simple templated application that one might write using new project wizards and boilerplate code. Also take some time to think about how you can improve your app in the future and list those items.]
 
 The following functionality is completed:
 
@@ -22,7 +22,7 @@ Features to be implemented in the future:
 
 * [ ] List more features here that would be next on your priority list to implement.
 
-## Video Walkthrough
+## Video Walkthrough (optional)
 
 [Provide either a video or animated GIF so we can get a quick glance at each feature that is in your app] 
 
@@ -36,13 +36,17 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 [Describe any challenges encountered while building the app and what you did to overcome them]
 
-## Open-source libraries used
+## Open source libraries 
+
+[List any open source libraries that were used for this project]
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
 
-## License
+## Copywrite / License
 
+    [Put whatever copywrite and license information you'd like here]
+    
     Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
